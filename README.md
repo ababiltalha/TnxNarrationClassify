@@ -1,3 +1,4 @@
 # TransactionNarrationClassify
 
-## Progressed Preprocessing without Lemmatization
+### Update: 
+Progressed Preprocessing without Lemmatization
